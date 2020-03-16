@@ -1,0 +1,23 @@
+.text1{
+    padding-top: 20px;
+    font-size: 30px;
+}
+.text2{
+    padding-top: 20px;
+    font-size: 25px;
+}
+#bras{
+    height: 80px;
+    width: 65px;
+    padding-top: 15px;
+}
+#unemat{
+    color:black;
+}
+#resp{
+    line-height:200px;
+    margin: 0 auto;
+}
+#container2{
+    margin-top: 20px;
+}
